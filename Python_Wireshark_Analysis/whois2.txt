@@ -1,0 +1,9 @@
+% This is the AfriNIC Whois server.
+% The AFRINIC whois database is subject to  the following terms of Use. See https://afrinic.net/whois/terms
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% The WHOIS is temporary unable to query ARIN for the requested resource. Please try again later.
+
+
