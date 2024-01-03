@@ -1,4 +1,4 @@
-# Blockchain
+# Blockchain with PoW
 
 Building a Blockchain in Python
 
